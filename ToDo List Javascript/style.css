@@ -1,0 +1,76 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(stormy-night2.jpeg);
+}
+.heading{
+    margin-left: 480px;
+    margin-top: 72px;
+    color: #bfc0c9;
+
+}
+h1{
+    font-size: 60px;
+}
+h3{
+    font-size: 20px;
+    margin-left: -39px;
+}
+.inputtxt{
+    margin-left: 301px;
+    margin-top: 42px;
+}
+
+#textbox{
+    width: 64%;
+    height: 36px;
+    border-radius: 9px;
+    background-color: #65575787;
+    border-color: #071526f2;
+    padding-left: 9px;
+    font-size: 19px;
+    font-style: italic;
+    font-weight: 700;
+    color: #cbdbebf2;
+}
+.inputbtn{
+    margin-left: 956px;
+    margin-top: -38px;
+}
+#Addbtn{
+    width: 89px;
+    height: 34px;
+    border-radius: 8px;
+}
+.border{
+    border-bottom: 3px solid #ddd;
+    margin-top: 33px;
+    width: 783px;
+    margin-left: 270px;
+}
+.list{
+    width: 608px;
+    margin-left: 313px;
+    margin-top: 3px;
+}
+.list ul{
+
+}
+
+.list li{
+    border-bottom: 1px solid #ddd;
+    padding: 13px;
+    list-style: none;
+    color: #bfc0c9;
+    font-size: 22px;
+    font-weight: bold;
+}
+.list-btn{
+    float: right;
+}
+.Deletebtn{
+    width: 70px;
+    height: 24px;
+}
